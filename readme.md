@@ -1,6 +1,6 @@
 # Local-To-Cloud
 ## Cloud-To-Local
-```
+``` CPP
  bool isRobot;
  cin>>isRobot;
  if(isRobot) 
